@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header_section{
+    background-image: url(img/img.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 500px;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.header_section:before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #296365;
+    opacity: .5;
+}
+.nav_area ul{
+    list-style: none;
+}
+.nav_area ul li a{
+	 color: white;
+	 display: inline-block;
+	 padding: 3px 10px;
+	 text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav_area ul li a:hover{
+    background: rgba(221, 221, 221, .35);
+}
+.nav_area ul li{
+	display:inline-block;
+}
+.row{
+    padding-top: 20px;
+}
+.glyphicon-earphone{
+    color: #BEC8C8;
+}
+
+.span{
+    color: white;
+}
+.number{
+         color: white;
+}
+.col-lg-2{
+     display: inline-block;
+}
+.logo_sections ul{
+    list-style: none;
+}
+.logo_sections ul li{
+	display:inline-block;
+}
+.logo_sections ul li a{
+	 display: inline-block;
+	 padding: 3px 10px;
+	 text-decoration: none;
+}
+.span_middle{
+    padding: 3px 10px;
+    color: #BEC8C8;
+}
+.create{
+    padding: 20px,2px;
+}
+.create a{
+    color: aliceblue;
+    background-color: #01A4E1;
+    padding: 10px;
+    font-size: 18px;
+}
+.total_paragraph{
+    color: aliceblue;
+    margin: 150px 10px;
+}
+.middle_content{
+    margin: 10px 500px;
+}
+.feature_details{
+    background-color: aquamarine;
+}
+.missing{
+    background-color: antiquewhite;
+}
+.found{
+    background-color: #DFF0D8;
+}
+
+.post{
+    background-color: azure;
+}
+.contact{
+    background-color: #98CE92;
+}
+.container_color{
+    background-color: aqua;
+}
+.container_post{
+    background-image: url(img/background.jpg);
+}
+.footer{
+    background:#E1E1E1;
+	text-align:center;
+    color: red;
+}
+.footer ul{
+	 margin:0;
+	 padding:0;
+	 list-style:none;
+}
+.footer ul li{
+	display:inline-block;
+	border-right: 1px solid #444;
+}
+.footer ul li:last-child{
+	border: none;
+}
+
+.footer ul li a{
+	 color: black;
+	 display: inline-block;
+	 padding: 8px 10px;
+	 text-decoration: none;
+	}
+.footer ul li a:hover{color:#0087C7}
