@@ -1,4 +1,4 @@
-#Missing Person Site
+# Missing Person Site
 
 Every year thousands of people are reported missing and many of them are not found. Because of the increasing number of missing person, it's very difficult for one person/s, agency or department to handle the huge dataset. Sometimes, the lack of data creates much confusion and so the issue of missing person has become more complicated. So, the goal is to solve this problem.
 This system is able to handle this type of dataset.
