@@ -5,6 +5,8 @@ This system is able to handle this type of dataset.
 
 Users need to create an account to be a member of this site. Their basic information and a valid email address is required for applying membership. Members can create missing reports. They can track their reports. Anyone can see the available missing reports in the site. Guest users can view missing reports. It's not required to be a member to view missing reports.
 
+![alt tag](https://user-images.githubusercontent.com/21248324/37569904-381119ac-2b13-11e8-870f-122009f84e40.JPG)
+
 This is a web application developed with PHP, MySQL, Bootstrap (Front-end framework)
 
 Developed By Sarfaraz Ahmed
